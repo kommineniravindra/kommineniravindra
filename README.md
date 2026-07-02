@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="assets/hero-text.svg" alt="Ravindra Chowdary" width="550" />
+<img src="assets/hero-text.svg" alt="Ravindra" width="550" />
 
 <br/>
 
@@ -115,7 +115,6 @@ A modern food ordering web application built with React.js, featuring a rich UI,
 
 ---
 
-
 <div align="center">
 <br/>
 <img src="assets/skills.png" width="100%" alt="Technical Skills" />
@@ -157,8 +156,6 @@ Whether you have a question or just want to say hi, I'll try my best to get back
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kommineni_ravindra_chowdary)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@codepulse-r)
 
-
-
-*© 2024 Ravindra Chowdary. All rights reserved. &nbsp;|&nbsp; Built with ❤ and lots of ☕*
+_© 2024 Ravindra Kommineni. All rights reserved. &nbsp;|&nbsp; Built with ❤ and lots of ☕_
 
 </div>

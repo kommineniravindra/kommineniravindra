@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250">
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="250" viewBox="0 0 750 250">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap');
@@ -13,7 +13,7 @@
   </defs>
   
   <text x="0" y="30" class="greeting">Hello, I'm</text>
-  <text x="0" y="95" class="name">Ravindra Chowdary <tspan font-family="sans-serif">👋</tspan></text>
+  <text x="0" y="95" class="name">RAVINDRA KOMMINENI <tspan font-family="sans-serif">👋</tspan></text>
   <text x="0" y="145" class="title">Full Stack Java Developer</text>
   
   <text x="0" y="195" class="desc">I build scalable web applications, robust REST APIs, and</text>
