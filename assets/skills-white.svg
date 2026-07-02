@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700&amp;display=swap');
+      text { font-family: 'Inter', sans-serif; }
+      .section-title { font-size: 20px; font-weight: 700; fill: #1e293b; }
+      .pill { rx: 6px; ry: 6px; }
+      .pill-text { font-size: 13px; font-weight: 600; fill: #ffffff; }
+    </style>
+  </defs>
+  
+  <rect width="900" height="400" fill="#ffffff" />
+  
+  <!-- Backend Section -->
+  <text x="20" y="40" class="section-title">Backend &amp; Core Development</text>
+  <g transform="translate(20, 60)">
+    <rect class="pill" width="80" height="28" fill="#f59e0b"/>
+    <text x="40" y="19" text-anchor="middle" class="pill-text">Java</text>
+    
+    <rect class="pill" x="90" width="105" height="28" fill="#10b981"/>
+    <text x="142" y="19" text-anchor="middle" class="pill-text">Spring Boot</text>
+
+    <rect class="pill" x="205" width="85" height="28" fill="#16a34a"/>
+    <text x="247" y="19" text-anchor="middle" class="pill-text">Node.js</text>
+
+    <rect class="pill" x="300" width="95" height="28" fill="#171717"/>
+    <text x="347" y="19" text-anchor="middle" class="pill-text">Express.js</text>
+    
+    <rect class="pill" x="405" width="95" height="28" fill="#64748b"/>
+    <text x="452" y="19" text-anchor="middle" class="pill-text">Hibernate</text>
+    
+    <rect class="pill" x="510" width="115" height="28" fill="#8b5cf6"/>
+    <text x="567" y="19" text-anchor="middle" class="pill-text">Microservices</text>
+    
+    <rect class="pill" x="635" width="95" height="28" fill="#0284c7"/>
+    <text x="682" y="19" text-anchor="middle" class="pill-text">REST APIs</text>
+    
+    <rect class="pill" x="740" width="105" height="28" fill="#10b981"/>
+    <text x="792" y="19" text-anchor="middle" class="pill-text">Spring Cloud</text>
+  </g>
+
+  <!-- Frontend Section -->
+  <text x="20" y="140" class="section-title">Frontend &amp; Mobile</text>
+  <g transform="translate(20, 160)">
+    <rect class="pill" width="80" height="28" fill="#0f172a"/>
+    <text x="40" y="19" text-anchor="middle" class="pill-text">React</text>
+    
+    <rect class="pill" x="90" width="95" height="28" fill="#eab308"/>
+    <text x="137" y="19" text-anchor="middle" class="pill-text" fill="#1e293b">JavaScript</text>
+    
+    <rect class="pill" x="195" width="95" height="28" fill="#7c3aed"/>
+    <text x="242" y="19" text-anchor="middle" class="pill-text">Bootstrap</text>
+    
+    <rect class="pill" x="300" width="75" height="28" fill="#ea580c"/>
+    <text x="337" y="19" text-anchor="middle" class="pill-text">HTML5</text>
+    
+    <rect class="pill" x="385" width="70" height="28" fill="#2563eb"/>
+    <text x="420" y="19" text-anchor="middle" class="pill-text">CSS3</text>
+  </g>
+
+  <!-- Database Section -->
+  <text x="20" y="240" class="section-title">Database &amp; Caching</text>
+  <g transform="translate(20, 260)">
+    <rect class="pill" width="85" height="28" fill="#0369a1"/>
+    <text x="42" y="19" text-anchor="middle" class="pill-text">MySQL</text>
+    
+    <rect class="pill" x="95" width="95" height="28" fill="#16a34a"/>
+    <text x="142" y="19" text-anchor="middle" class="pill-text">MongoDB</text>
+    
+    <rect class="pill" x="200" width="70" height="28" fill="#dc2626"/>
+    <text x="235" y="19" text-anchor="middle" class="pill-text">Redis</text>
+  </g>
+
+  <!-- DevOps Section -->
+  <text x="20" y="340" class="section-title">DevOps, Cloud &amp; Tools</text>
+  <g transform="translate(20, 360)">
+    <rect class="pill" width="70" height="28" fill="#1e293b"/>
+    <text x="35" y="19" text-anchor="middle" class="pill-text">AWS</text>
+    
+    <rect class="pill" x="80" width="85" height="28" fill="#2563eb"/>
+    <text x="122" y="19" text-anchor="middle" class="pill-text">Docker</text>
+    
+    <rect class="pill" x="175" width="105" height="28" fill="#3b82f6"/>
+    <text x="227" y="19" text-anchor="middle" class="pill-text">Kubernetes</text>
+    
+    <rect class="pill" x="290" width="85" height="28" fill="#ef4444"/>
+    <text x="332" y="19" text-anchor="middle" class="pill-text">Jenkins</text>
+    
+    <rect class="pill" x="385" width="105" height="28" fill="#ea580c"/>
+    <text x="437" y="19" text-anchor="middle" class="pill-text">Git &amp; GitHub</text>
+    
+    <rect class="pill" x="500" width="75" height="28" fill="#0ea5e9"/>
+    <text x="537" y="19" text-anchor="middle" class="pill-text">CI/CD</text>
+    
+    <rect class="pill" x="585" width="90" height="28" fill="#f97316"/>
+    <text x="630" y="19" text-anchor="middle" class="pill-text">Postman</text>
+    
+    <rect class="pill" x="685" width="85" height="28" fill="#84cc16"/>
+    <text x="727" y="19" text-anchor="middle" class="pill-text" fill="#1e293b">Swagger</text>
+  </g>
+</svg>
