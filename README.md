@@ -142,6 +142,13 @@ A modern food ordering web application built with React.js, featuring a rich UI,
 
 ---
 
+<div align="center">
+<br/>
+<img src="assets/progress.png" width="100%" alt="Progress" />
+</div>
+
+---
+
 ## 📫 Get In Touch
 
 Whether you have a question or just want to say hi, I'll try my best to get back to you!
